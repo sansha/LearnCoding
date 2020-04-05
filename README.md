@@ -13,3 +13,4 @@ open the link and either click on "open in playground" (changes are not saved) o
 
 [Day 5 notebook](https://colab.research.google.com/github/sansha/LearnCoding/blob/master/Day_5.ipynb)
 
+[Day 6 notebook](https://colab.research.google.com/github/sansha/LearnCoding/blob/master/Day_6.ipynb)
